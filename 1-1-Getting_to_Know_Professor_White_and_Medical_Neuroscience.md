@@ -25,16 +25,16 @@
 8. Fundamental discoveries promote healthy living and treatment of disease.
 
 ### **Scope** of the course 1: 6 units of content organized into 12 weeks
-  1. Unit 1 (weeks 1-2) - Neuroanatomy
-  2. Unit 2 (weeks 3-4) - Neural Signaling
-  3. Unit 3 (weeks 5-7) - Sensory Systems
-  4. Unit 4 (weeks 8-9) - Movement and Motor Control
-  5. Unit 5 (week 10) - The Changing Brain
-  6. Unit 6 (weeks 11-12)
+1. Unit 1 (weeks 1-2) - Neuroanatomy
+2. Unit 2 (weeks 3-4) - Neural Signaling
+3. Unit 3 (weeks 5-7) - Sensory Systems
+4. Unit 4 (weeks 8-9) - Movement and Motor Control
+5. Unit 5 (week 10) - The Changing Brain
+6. Unit 6 (weeks 11-12)
 
 ### **Scope** of the course 2
-  - Problem-solvig through clinical case studies
-    - Localized injury in the CNS <-> Neurological signs & symptoms
+- Problem-solvig through clinical case studies
+ - Localized injury in the CNS <-> Neurological signs & symptoms
 
 ## Video: Learning resources for Medical Neuroscience
 
