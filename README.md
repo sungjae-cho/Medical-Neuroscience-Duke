@@ -3,6 +3,7 @@
 - Instructor: Leonard Edward White
 - [Coursera homepage](https://www.coursera.org/learn/medical-neuroscience/)
 - [Medical Neuroscience blog](https://www.learnmedicalneuroscience.nl/)
+- Course textbook: [Neuroscience, 6th Ed.](https://global.oup.com/academic/product/neuroscience-9781605353807?q=neuroscience&lang=en&cc=us), by Purves et al., published by Oxford University Press (2018).
 
 ## Week 1-1) Getting Started in Medical Neuroscience
 
