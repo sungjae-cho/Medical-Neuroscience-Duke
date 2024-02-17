@@ -14,23 +14,25 @@
 
 ## Video: The Scope of Medical Neuroscience
 
-- **Core concepts** in the field of neuroscience
-  1. The brain is the body's most complex organ.
-  2. Neurons communicate using both electrical and chemical signals.
-  3. Genetically determined circuits are the foundation of the nervous system.
-  4. Life experiences change the nervous system.
-  5. Intelligence arises as the brain reasons, plans, and solve problems.
-  6. The brain makes it possible to communicate knowledge through language.
-  7. The human brain endows us with a natural curiosity to understand how the world works.
-  8. Fundamental discoveries promote healthy living and treatment of disease.
-- **Scope** of the course: 6 units of content organized into 12 weeks
+### **Core concepts** in the field of neuroscience
+1. The brain is the body's most complex organ.
+2. Neurons communicate using both electrical and chemical signals.
+3. Genetically determined circuits are the foundation of the nervous system.
+4. Life experiences change the nervous system.
+5. Intelligence arises as the brain reasons, plans, and solve problems.
+6. The brain makes it possible to communicate knowledge through language.
+7. The human brain endows us with a natural curiosity to understand how the world works.
+8. Fundamental discoveries promote healthy living and treatment of disease.
+
+### **Scope** of the course 1: 6 units of content organized into 12 weeks
   1. Unit 1 (weeks 1-2) - Neuroanatomy
   2. Unit 2 (weeks 3-4) - Neural Signaling
   3. Unit 3 (weeks 5-7) - Sensory Systems
   4. Unit 4 (weeks 8-9) - Movement and Motor Control
   5. Unit 5 (week 10) - The Changing Brain
   6. Unit 6 (weeks 11-12)
-- **Scope** of the course
+
+### **Scope** of the course 2
   - Problem-solvig through clinical case studies
     - Localized injury in the CNS <-> Neurological signs & symptoms
 
