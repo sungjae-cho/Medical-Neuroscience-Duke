@@ -113,3 +113,12 @@ Basic Orientation in the Human CNS
   - is a specialized permeability barrier between the capillary endothelium and the extracellular space in the neural tissue.
 - Q. Consider a person with a stroke that causes a small region of brain damage. Which of the options below happened first?
   - A. Microglia were stimulated to convert from ramified to amoeboid states.
+
+## Video: Basic Orientation in the Human CNS
+
+- Reference diagrams on the internet.
+- Q. In conventional human radiological imaging (e.g., MRI, PET, CT) of the head, the axial plane is synonymous with the horizontal plane. Which of the following statements about this plane is most accurate?
+  - A. The axial plane is parallel to the floor of the cranium.
+- Q. Of the following pairs of directional terms, which pair contains terms that define PERPENDICULAR (orthogonal) directions when applied to the identified region of the central nervous system?  [hint: you may wish to extend your arms and point in the indicated directions]
+  - A. in the spinal cord, caudal & posterior
+    - Caudal: downward. Posterior: backward.
