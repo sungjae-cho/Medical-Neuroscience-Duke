@@ -74,10 +74,42 @@ Basic Orientation in the Human CNS
   - contributes to formation of blood-brain barrier
   - participates in inflammatory response in injured neural tissue, including phagocytosis of cellular debris
   - contributes to the formation of scar tissue in damaged brain and spinal cord
-- Glia type 1: Astrocyte
+- Glia type 1: **Astrocyte**
   - is found primarily in gray matter (closely associated with neuronal cell bodies, dendrites, and synapses).
   - helps maintain ionic balance of extracellular fluids.
   - takes up and processes neurotransmitters from synaptic clefts.
   - assists in the formation of new synapses and circuits.
   - contributes to the formation of blood-brain barrier and brain-ependymal (ventricular) barrier.
   - contributes to the formation of scars in necrotic neural tissue following injury.
+- Glia type 2: **Obligodendrocyte**
+  - is found in the white matter.
+  - forms myelin (Schwann cells make myelin in peripheral nerves).
+    - The myelin aids the propgation of neural signals along myelinated axons.
+  - presents antigens that influence the outgrowth of axons in developing and recovering brains.
+    - indirectly influences axonal growth.
+  - is subject to immunological attack in diseases of the CNS (e.g., multiple sclerosis)
+  - inslutes axons by generating layers of membrane that wrap around axon segments.
+    - This inslulation decreases ionic "leakiness" of the membrane.
+  - forms gaps between myelin segments, called "nodes of Ranvier".
+    - The **nodes of Ranvier** allow for the economoical {concentration of ion channels and ion pumps} that are necessary for electrical signaling in axons.
+- Glia type 3: **Micoglial cell**
+  - is a special type of mononuclear phagocyte that resides in the CNS.
+  - is derived from hematopoietic precursor cells that migrate into the brain during development.
+  - exists in one of two forms: amoeboid and ramified.
+    - The **ramified** form is in the **dormant** state.
+    - The **amoeboid** form is the **activated**, **mobile state** when microglia cells are engaged in phagocytic activity.
+- Glia type 4: **Glial stem cell**
+  - is a subset of astrocytes located near the ventricles, often adjacent to blood vessels.
+  - gives rise to more stem cells.
+  - matures astrocytes or oligodendrocytes, or mature neurons.
+  - exhibits key properties of somatic stem cells:
+    - proliferation
+    - self-renewal
+    - potency to make all the cells of a given tissue
+- Glia type 5: **Oligodendrocyte precursor**
+  - is scattered throughout the white matter.
+  - mainly gives rise to mature oligodendrocytes but may generate astrocytes and neurons.
+- **Blood-Brain Barrier**
+  - is a specialized permeability barrier between the capillary endothelium and the extracellular space in the neural tissue.
+- Q. Consider a person with a stroke that causes a small region of brain damage. Which of the options below happened first?
+  - A. Microglia were stimulated to convert from ramified to amoeboid states.
