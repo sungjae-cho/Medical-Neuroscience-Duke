@@ -1,4 +1,4 @@
-# 1-1 Getting to Know Professor White and Medical Neuroscience
+# 1. Getting to Know Professor White and Medical Neuroscience
 
 ## Reading: Learning Objectives
 
@@ -15,6 +15,7 @@
 ## Video: The Scope of Medical Neuroscience
 
 ### **Core concepts** in the field of neuroscience
+
 1. The brain is the body's most complex organ.
 2. Neurons communicate using both electrical and chemical signals.
 3. Genetically determined circuits are the foundation of the nervous system.
@@ -25,6 +26,7 @@
 8. Fundamental discoveries promote healthy living and treatment of disease.
 
 ### **Scope** of the course 1: 6 units of content organized into 12 weeks
+
 1. Unit 1 (weeks 1-2) - Neuroanatomy
 2. Unit 2 (weeks 3-4) - Neural Signaling
 3. Unit 3 (weeks 5-7) - Sensory Systems
@@ -33,12 +35,14 @@
 6. Unit 6 (weeks 11-12)
 
 ### **Scope** of the course 2
+
 - Problem-solvig through clinical case studies
- - Localized injury in the CNS <-> Neurological signs & symptoms
+- Localized injury in the CNS <-> Neurological signs & symptoms
 
 ## Video: Learning resources for Medical Neuroscience
 
 ### Learning resources
+
 - Course website: note files
 - [LearnMedicalNeuroscience.nl](http://www.learnmedicalneuroscience.nl/)
 - [Neuroscience, 6th Ed.](https://global.oup.com/academic/product/neuroscience-9781605353807?q=neuroscience&lang=en&cc=us), by Purves et al., published by Oxford University Press (2018).
@@ -48,6 +52,7 @@
 ## Video: Your Part!
 
 ### Your part
+
 - 16-20 hours per week! You are expected to view 4-6 hours of video tutorials.
 - Weekly quizzes
 - Discussion Forum participation
@@ -55,6 +60,7 @@
 - Comprehensive final exam
 
 ### How to learn
+
 - Follow the path.
 - Visualize your knowledge.
 - Learn spatially.
