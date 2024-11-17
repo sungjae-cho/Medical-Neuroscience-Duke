@@ -73,4 +73,31 @@ from [Neuroscience, 6th Ed.](https://global.oup.com/academic/product/neuroscienc
 ## Video: Finding the Central Sulcus
 
 - Sensory and motor gyri are close together.
-- Why do the locations of bodily sense and action exist in simlar locations for different people?
+- (Why do the locations of bodily sense and action exist in simlar locations for different people?)
+
+## Video: Ventral Surface of the Brain
+
+- (The function of cortex may be determined by the type of arriving sensory signals)
+
+## Video: Building a Digital Brain (Fingers to Gyri)
+
+- (The distribution of the function across the brain may give me intuition to understand the principles of brain organization.)
+
+## Let's Discuss: Is Bigger Better?
+
+What do you think?  Is brain like muscle?  Is a bigger brain better than a smaller brain?  What about for subregions, such as a particular area within the cerebral cortex; do you think that size scales with performance?
+
+Please share your thoughts, reflections, insights, research, etc., that you may be inspired to consider by this long-standing question in the brain sciences.
+
+**My answer**
+
+The size of the brain matters, but not always. On the first hand, the size matters across species as human brains are greater relative to their body size. In addition, brains that went through developmental problems may have smaller size. On the other hand, among normal adults, the brain size does not give significant benefit to perform better.
+
+## Surface Anatomy of the Brainstem
+
+- Brain Stem, Midbrain, Pons, Medulla Oblongata, Cerebral Peduncles, Medullary Pyramids, Corticospinal Tract, Olive, Cranial Nerves, Ventral Surface.
+
+## Blood Supply to the Brain
+
+- blood supply, brain, internal carotid arteries, vertebral arteries, anterior circulation, posterior circulation, basilar artery, cerebral arteries, venous drainage, dura mater, superior sagittal sinus, anterior cerebral artery, middle cerebral artery
+- (After seeing the complexity of bloody suppy in the brain, I got to think that sleep might be for recovery of the brain rather that of the body.)
