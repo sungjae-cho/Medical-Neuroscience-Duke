@@ -1,3 +1,5 @@
+
+
 # Neural Signaling
 
 ## Video: Overview of Neural Signaling
@@ -21,3 +23,14 @@
 - If concentration and electrical gradients have the opposition direction, then they form **electrochemical equilibrium**.
 - The causes of electrochemical equilibrium: (1) selective membrane permeability (2) diffusion (3) electrical forces
 - Electrochemical equilibrium is formed very quickly with a few ions.
+
+## Ionic Basis of the Resting Membrane Potential, part 2
+
+- Keywords: Nernst equation, Goldman equation
+- Nernst equation: A mathematical formula that describes the equilibrium potential (also called the Nernst potential) of an ion across a membrane, considering the concentration difference of that ion between the two sides of the membrane.
+- Goldman equation / Goldman-Hodgkin-Katz (GHK) voltage equation: The equation used to calculate the resting membrane potential of a cell by considering the contributions of multiple ions with varying permeabilities across the membrane. Unlike the Nernst equation, which applies to a single ion, the Goldman equation accounts for the combined effects of several ions.
+- The depolarization potential: $\approx$ the Nernst potential of sodium due to the permeability $P_{Na} \gg P_{K}$
+- The resting potential: $\approx$ the Nernst potential of postassium due to the permeability $P_{K} \gg P_{Na}$
+- The permeability of cloride $P_{Cl}$ is negligible.
+- Membrane permeability and membrane potential interact each other.
+- Membrane permeability changes are essential to form action potentials
