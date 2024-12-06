@@ -51,3 +51,18 @@ $$I_{ion}=g_{ion}(V_{m}-E_{ion})$$
 - Both sodium and potassium conductance are voltage- and time-depedent.
 - Sodium conductance becomes inactivated.
 - Potassium conductance never becomes inactivated.
+
+## Ionic Basis of the Action Potential, part 3
+
+- Keywords: rising stage, falling stage, inactivation, refractory period, (absolute/relative) refractory period, undershoot, hyperpolarization
+- Action potential: Increase in Na+ permeability -> Na+ entry -> Depolarization -> K+ loss repolarization
+- Suprathreshold depolarization: Depolarization before K+ outflux
+- Subthreshold depolarization: Depolarization after K+ outflux
+- Potential increase by Na+: Fast positive cycle
+- Potential decrease by K+: Slow negative cycle
+- Absolute refractory period:
+  - The neuron cannot fire another action potential, no matter how strong the stimulus.
+  - This is due to inactivated voltage-gated sodium channels.
+- Relative refractory period:
+  - The neuron can fire another action potential, but only if the stimulus is stronger than usual.
+  - This is because some sodium channels have reset, but the membrane is still hyperpolarized due to the continued outflow of potassium ions (K+).
