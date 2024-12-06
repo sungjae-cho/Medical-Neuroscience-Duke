@@ -79,3 +79,9 @@ $$I_{ion}=g_{ion}(V_{m}-E_{ion})$$
 - Keywords: ATPase pump, Na+/K+ pump, Ca2+ pump
 - ATPase pumps: Na+/K+ pumps, Ca2+ pumps
 - The circular mechanism of Na+/K+ pumps
+
+
+## Propagation of Action Potentials
+
+- Keywords: passive conduction saltatory conduction
+- Saltatory conduction: the process by which electrical impulses jump between nodes of Ranvier along a myelinated axon, which increases the speed at which action potentials travel
