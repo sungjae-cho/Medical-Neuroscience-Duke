@@ -24,7 +24,7 @@
 - The causes of electrochemical equilibrium: (1) selective membrane permeability (2) diffusion (3) electrical forces
 - Electrochemical equilibrium is formed very quickly with a few ions.
 
-## Ionic Basis of the Resting Membrane Potential, part 2
+## Video: Ionic Basis of the Resting Membrane Potential, part 2
 
 - Keywords: Nernst equation, Goldman equation
 - Nernst equation: A mathematical formula that describes the equilibrium potential (also called the Nernst potential) of an ion across a membrane, considering the concentration difference of that ion between the two sides of the membrane.
@@ -35,13 +35,13 @@
 - Membrane permeability and membrane potential interact each other.
 - Membrane permeability changes are essential to form action potentials
 
-## Ionic Basis of the Action Potential, part 1
+## Video: Ionic Basis of the Action Potential, part 1
 
 - Keywords: transient inward current, delayed outward current
 - The transient inward current reverses near 50mV.
 - The delayed outward current steadily increases.
 
-## Ionic Basis of the Action Potential, part 2
+## Video: Ionic Basis of the Action Potential, part 2
 
 - Keywords: conductance, inactivation
 - The early current is carried by sodium.
@@ -52,7 +52,7 @@ $$I_{ion}=g_{ion}(V_{m}-E_{ion})$$
 - Sodium conductance becomes inactivated.
 - Potassium conductance never becomes inactivated.
 
-## Ionic Basis of the Action Potential, part 3
+## Video: Ionic Basis of the Action Potential, part 3
 
 - Keywords: rising stage, falling stage, inactivation, refractory period, (absolute/relative) refractory period, undershoot, hyperpolarization
 - Action potential: Increase in Na+ permeability -> Na+ entry -> Depolarization -> K+ loss repolarization
@@ -67,21 +67,20 @@ $$I_{ion}=g_{ion}(V_{m}-E_{ion})$$
   - The neuron can fire another action potential, but only if the stimulus is stronger than usual.
   - This is because some sodium channels have reset, but the membrane is still hyperpolarized due to the continued outflow of potassium ions (K+).
 
-## Molecular Mechanisms of Action Potential Generation, part 1
+## Video: Molecular Mechanisms of Action Potential Generation, part 1
 
 - Keywords: (None)
 - $\Delta$(Membrane permeability) $\leftrightarrow$ $\Delta V_m$
 - The inactivation of Na+ channels happens because of a gating mechanism.
 - K+ channels do not have this mechanism. Thus, it does not become inactivated.
 
-## Molecular Mechanisms of Action Potential Generation, part 2
+## Video: Molecular Mechanisms of Action Potential Generation, part 2
 
 - Keywords: ATPase pump, Na+/K+ pump, Ca2+ pump
 - ATPase pumps: Na+/K+ pumps, Ca2+ pumps
 - The circular mechanism of Na+/K+ pumps
 
+## Video: Propagation of Action Potentials
 
-## Propagation of Action Potentials
-
-- Keywords: passive conduction saltatory conduction
+- Keywords: passive conduction decay, myelinated axon, myelin sheath, node of Ranvier, saltatory conduction
 - Saltatory conduction: the process by which electrical impulses jump between nodes of Ranvier along a myelinated axon, which increases the speed at which action potentials travel
