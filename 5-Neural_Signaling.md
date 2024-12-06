@@ -1,5 +1,3 @@
-
-
 # Neural Signaling
 
 ## Video: Overview of Neural Signaling
