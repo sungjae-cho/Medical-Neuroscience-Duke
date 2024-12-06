@@ -66,3 +66,10 @@ $$I_{ion}=g_{ion}(V_{m}-E_{ion})$$
 - Relative refractory period:
   - The neuron can fire another action potential, but only if the stimulus is stronger than usual.
   - This is because some sodium channels have reset, but the membrane is still hyperpolarized due to the continued outflow of potassium ions (K+).
+
+## Molecular Mechanisms of Action Potential Generation, part 1
+
+- Keywords: (None)
+- $\Delta$(Membrane permeability) $\leftrightarrow$ $\Delta V_m$
+- The inactivation of Na+ channels happens because of a gating mechanism.
+- K+ channels do not have this mechanism. Thus, it does not become inactivated.
