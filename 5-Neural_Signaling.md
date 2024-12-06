@@ -34,3 +34,9 @@
 - The permeability of cloride $P_{Cl}$ is negligible.
 - Membrane permeability and membrane potential interact each other.
 - Membrane permeability changes are essential to form action potentials
+
+## Ionic Basis of the Action Potential, part 1
+
+- Keywords: transient inward current, delayed outward current
+- The transient inward current reverses near 50mV.
+- The delayed outward current steadily increases.
