@@ -73,3 +73,9 @@ $$I_{ion}=g_{ion}(V_{m}-E_{ion})$$
 - $\Delta$(Membrane permeability) $\leftrightarrow$ $\Delta V_m$
 - The inactivation of Na+ channels happens because of a gating mechanism.
 - K+ channels do not have this mechanism. Thus, it does not become inactivated.
+
+## Molecular Mechanisms of Action Potential Generation, part 2
+
+- Keywords: ATPase pump, Na+/K+ pump, Ca2+ pump
+- ATPase pumps: Na+/K+ pumps, Ca2+ pumps
+- The circular mechanism of Na+/K+ pumps
