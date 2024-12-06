@@ -40,3 +40,14 @@
 - Keywords: transient inward current, delayed outward current
 - The transient inward current reverses near 50mV.
 - The delayed outward current steadily increases.
+
+## Ionic Basis of the Action Potential, part 2
+
+- Keywords: conductance, inactivation
+- The early current is carried by sodium.
+- The late current is carried by potassium.
+- Current is a function of conductance and "driving force".
+$$I_{ion}=g_{ion}(V_{m}-E_{ion})$$
+- Both sodium and potassium conductance are voltage- and time-depedent.
+- Sodium conductance becomes inactivated.
+- Potassium conductance never becomes inactivated.
